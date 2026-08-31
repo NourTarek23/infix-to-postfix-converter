@@ -1,0 +1,17 @@
+
+.button{
+    -fx-background-color: darkslateblue;
+    -fx-text-fill: white;
+    -fx-font-size: large;
+    -fx-font: normal bold 15px 'serif';
+}
+.label{
+    -fx-font: normal bold 20px 'serif';
+}
+.labl{
+    -fx-font: normal bold 30px 'serif';
+        -fx-text-fill:brown;
+
+}
+
+
