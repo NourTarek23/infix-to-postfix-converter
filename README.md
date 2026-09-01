@@ -116,9 +116,3 @@ The project includes a graphical user interface that allows the user to enter an
 This project was developed as a college Data Structures project to practice implementing and using the **Stack** data structure in a practical application.
 
 It demonstrates how stacks can be applied to expression parsing and conversion between different mathematical notations.
-
-## Author
-
-**Nour Tarek**
-
-**ملاحظة صغيرة:** أنا متعمد ما أقولش في الـ README إن المشروع بيعمل *evaluation* للـ postfix أو بيدعم operators معينة بالاسم، لأننا عايزين الـ README يصف **اللي موجود فعلًا في الكود** وليس نفترض features غير مؤكدة.
